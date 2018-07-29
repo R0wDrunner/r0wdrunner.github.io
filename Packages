@@ -27,3 +27,18 @@ Description: Hide the Background of the Folder Icon View
 Name: HideFolderBG
 Author: XIVA
 Depiction: http://xivadev.github.io/description.html?id=com.hidefolderbg.xiva
+
+Package: com.xiva.whatusee
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: XIVA
+Depends: mobilesubstrate
+Filename: ./com.xiva.whatusee_0.0.1-6+debug_iphoneos-arm
+Size: 3146
+MD5sum: f13fea28d6c72554f594c6c126ec1975
+Homepage: http://twitter.com/xivadev
+Description: Remove Ad Banners from the Watusi Tweak
+Name: Whatusee
+Author: XIVA
+Depiction: http://xivadev.github.io/description.html?id=com.whatusee.xiva
