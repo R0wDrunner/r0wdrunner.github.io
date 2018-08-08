@@ -1,0 +1,23 @@
+<package>
+	<id>com.xiva.minimalxi</id>
+	<name>MinimalXI</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 11.4 and below..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
