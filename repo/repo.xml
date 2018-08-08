@@ -3,7 +3,7 @@
 		<link>
 			<name>Donate Via Paypal</name>
 			<url>https://www.paypal.me/XIVA</url>
-			<iconclass>fab fa-paypal</iconclass>
+			<iconclass>fa fa-paypal</iconclass>
 		</link>
 		<link>
 			<name>Follow me on Twitter</name>
@@ -13,7 +13,7 @@
 		<link>
 			<name>See my Source Codes</name>
 			<url>https://github.com/XIVAdev</url>
-			<iconclass>fab fa-github</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</footerlinks>
 </repo>

@@ -13,7 +13,7 @@
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>
-		<![CDATA[Hide Stuff | Edit Stuff | Change Stuff
+		<![CDATA[Hide Stuff | Edit Stuff | Change Stuff<br/>
 		Customize your User Interface with MinimalXI to create your personal style.]]>
 		</description>
 	</descriptionlist>
@@ -36,7 +36,7 @@
 		<link>
 			<name>The Gang</name>
 			<url>https://idevicehacked.com/repo/</url>
-			<iconclass>fas fa-link</iconclass>
+			<iconclass>fa fa-link</iconclass>
 		</link>
 	</links>
 </package>
