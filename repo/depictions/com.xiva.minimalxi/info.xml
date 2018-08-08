@@ -4,20 +4,42 @@
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.4</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 11.4 and below..</description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
