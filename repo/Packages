@@ -25,17 +25,3 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
-Package: com.xiva.minimalxi
-Version: 1.1
-Section: Tweaks
-Maintainer: XIVA <xiva_dev@my.com>
-Depends: firmware (>11.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.xiva.minimalxi_1.1-2+debug_iphoneos-arm.deb
-Size: 39198
-MD5sum: 18e75c9a698b46aafe4c86ce9ea128ab
-Description: Hide Stuff - Edit Stuff - Change Stuff
-Name: MinimalXI
-Author: XIVA <xiva_dev@my.com>
-Depiction: https://xivadev.github.io/repo/depictions/?p=com.xiva.minimalxi
