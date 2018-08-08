@@ -42,3 +42,18 @@ Description: Remove Ad Banners from the Watusi Tweak
 Name: Whatusee
 Author: XIVA
 Depiction: http://xivadev.github.io/description.html?id=com.whatusee.xiva
+
+Package: com.xiva.rocketadblocker
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: XIVA
+Depends: mobilesubstrate
+Filename: ./com.xiva.rocketadblocker_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3024
+MD5sum: 92cef65cc84d4459ab74e3683429500a
+Homepage: http://twitter.com/xivadev
+Description: Remove Ad Banners from the Watusi Tweak
+Name: Whatusee
+Author: XIVA
+Depiction: http://xivadev.github.io/description.html?id=com.rocketadblocker.xiva
