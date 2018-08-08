@@ -13,8 +13,8 @@
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
 		<description>
-		Hide Stuff | Edit Stuff | Change Stuff
-		Customize your User Interface with MinimalXI to create your personal style.
+		<![CDATA[Hide Stuff | Edit Stuff | Change Stuff
+		Customize your User Interface with MinimalXI to create your personal style.]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
