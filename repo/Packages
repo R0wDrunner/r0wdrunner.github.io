@@ -4,9 +4,9 @@ Section: Tweaks
 Maintainer: XIVA <xiva_dev@my.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.xiva.minimalxi_1.1-2+debug_iphoneos-arm.deb
-Size: 39198
-MD5sum: 18e75c9a698b46aafe4c86ce9ea128ab
+Filename: ./debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
+Size: 34782
+MD5sum: 65b7d3a7ddce6e94e3ba5026d58c9cf4
 Description: Hide Stuff | Edit Stuff | Change Stuff
 Name: MinimalXI
 Author: XIVA <xiva_dev@my.com>

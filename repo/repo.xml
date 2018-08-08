@@ -3,7 +3,7 @@
 		<link>
 			<name>Donate Via Paypal</name>
 			<url>https://www.paypal.me/XIVA</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fab fa-paypal</iconclass>
 		</link>
 		<link>
 			<name>Follow me on Twitter</name>
@@ -11,9 +11,9 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>See my Source Code</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>See my Source Codes</name>
+			<url>https://github.com/XIVAdev</url>
+			<iconclass>fab fa-github</iconclass>
 		</link>
 	</footerlinks>
 </repo>

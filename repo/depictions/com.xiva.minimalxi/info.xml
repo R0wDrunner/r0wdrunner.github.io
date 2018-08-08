@@ -1,7 +1,7 @@
 <package>
 	<id>com.xiva.minimalxi</id>
 	<name>MinimalXI</name>
-	<version>1.1</version>
+	<version>1.1.0-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -12,34 +12,31 @@
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
-		]]>
+		<description>
+		Hide Stuff | Edit Stuff | Change Stuff
+		Customize your User Interface with MinimalXI to create your personal style.
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This shows one of the possibilites to have a custom Folder View!</description>
+			<image>screen1.jpg</image>
 		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Those are the Tweak's preferences!</description>
+			<image>screen2.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Destroyed Bugs</change>
+		<change>Added 3 new features</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>The Gang</name>
+			<url>https://idevicehacked.com/repo/</url>
+			<iconclass>fas fa-link</iconclass>
 		</link>
 	</links>
 </package>
