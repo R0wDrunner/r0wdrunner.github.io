@@ -1,13 +1,16 @@
 Package: com.xiva.minimalxi
 Version: 1.1.0-2
-Section: Tweaks
-Maintainer: XIVA <xiva_dev@my.com>
-Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
+Maintainer: XIVA
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
 Size: 34782
 MD5sum: 65b7d3a7ddce6e94e3ba5026d58c9cf4
-Description: Hide Stuff | Edit Stuff | Change Stuff
+SHA1: 72795ab169fbd093868d77e56a875b114d897518
+SHA256: 3f738320c9c0c05c0415721fe60f214bbdb91ef81d3626c640f4d99147f6aa18
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XIVA
+Depiction: https://username.github.io/repo/depictions/?p=com.xiva.minimalxi
 Name: MinimalXI
-Author: XIVA <xiva_dev@my.com>
-Depiction: https://xivadev.github.io/repo/depictions/?p=com.xiva.minimalxi
