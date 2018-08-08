@@ -1,0 +1,1 @@
+scanpkg -dir debs>Packages
