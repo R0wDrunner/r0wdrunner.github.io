@@ -1,5 +1,5 @@
 Package: com.xiva.minimalxi
-Version: 1.1.0-2
+Version: 1.1
 Section: Tweaks
 Maintainer: XIVA <xiva_dev@my.com>
 Depends: firmware (>11.0), mobilesubstrate
