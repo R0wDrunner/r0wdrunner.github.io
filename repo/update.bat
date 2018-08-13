@@ -1,1 +1,1 @@
-scanpkg -dir debs>Packages
+bash update.sh
