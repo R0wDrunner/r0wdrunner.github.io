@@ -71,9 +71,9 @@
 					}
 					// create screenshots link
 					$("#descriptionList").append(
-						$("<a class='link-item list-group-item'>")
-							.attr("href","screenshots.html?p="+bundleid)
-							.text("Screenshots")
+						$("<iframe class='link-item list-group-item'>")
+							.attr("src",+bundleid "/screenshots/cydia.jpg")
+							
 					);
 				}
 			}
