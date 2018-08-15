@@ -45,23 +45,7 @@
 				}
 			}
 	}
-    $( document ).ready(function() {
-        $.ajax({
-            type    : "GET",
-            dataType: "xml",
-            url     : (bundleid+"/info.xml"),
-            success : function(xml){
-				document.title = $(xml).find("package>name").text();
-            	data_loader_engine(contentBlocks,xml)
-            },
-			cache   : false,
-            error: function() {
-                $("#packageError").show();
-				$("#packageInformation").hide();
-            }
-        }); //ajax
-		
-    }); // ready
+
   </script>
 </head>
 <body>
