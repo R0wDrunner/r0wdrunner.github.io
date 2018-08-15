@@ -151,12 +151,8 @@
         }); //ajax
 
     }); // ready
-  </script>
-  <script type="text/javascript">
-  
-	bundleid = $.QueryString['p'];	
 
-    var contentBlocks = 	{
+      var contentBlocks = 	{
         "#screenshotsList"	: 
 			{"type":"custom"  
 				,"source" :"package>screenshots>screenshot"
@@ -228,13 +224,6 @@
 			<li id="changelogLink" />
 		</ul>
 	</div>
-	<div id="packageInformation">
-	<div class="container">
-		<h5>SCREENSHOTS</h5>
-		<ul id="screenshotsList" class="list-group">
-		</ul>
-	</div>
-</div>
 	<div class="container" id="dependenciesContainer">
 		<h5>DEPENDENCIES</h5>
 		<ul id="dependencyList" class="list-group">
@@ -247,6 +236,13 @@
 		</ul>
 	</div>
 
+</div>
+<div id="packageInformation">
+	<div class="container">
+		<h5>SCREENSHOTS</h5>
+		<ul id="screenshotsList" class="list-group">
+		</ul>
+	</div>
 </div>
 <div id="packageError" style="display:none">
 	<div class="container">
