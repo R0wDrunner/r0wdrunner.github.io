@@ -41,5 +41,6 @@ body {
 
 .jumbotron {
 text-align:center;
+color:white;
     background: linear-gradient(141deg, #d6611d 0%, #ef9f37 51%, #EC9B3B 75%);
 }
