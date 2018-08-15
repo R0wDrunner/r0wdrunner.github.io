@@ -37,17 +37,10 @@ body {
       font-family: 'Sintony', sans-serif;
   font-weight: 300;
   font-size: 13px;
-  background-color: #272727;
 }
 
 .jumbotron {
 text-align:center;
 color:white;
     background: linear-gradient(141deg, #d6611d 0%, #ef9f37 51%, #EC9B3B 75%);
-}
-
-
-h3,h4,h5,h6 {
-
-    color:white;
 }
