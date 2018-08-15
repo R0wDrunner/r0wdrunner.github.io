@@ -1,3 +1,6 @@
+
+@import "https://fonts.googleapis.com/css?family=Sintony";
+
 .disable-hover {
     pointer-events: none;
 }
@@ -27,4 +30,11 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     font-size: 16px;
     margin-left: 5px;
     margin-right: 10px;
+}
+
+
+body {
+      font-family: 'Sintony', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
 }
