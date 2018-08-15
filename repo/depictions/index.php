@@ -72,7 +72,7 @@
 					// create screenshots link
 					$("#descriptionList").append(
 						$("<a class='link-item list-group-item'>")
-							.attr("href",+bundleid"screenshots/cydia.jpg")
+							.attr("href","screenshots.html" +bundleid)
 							.text("Screenshots")
 					);
 				}
@@ -154,9 +154,7 @@
   </script>
 </head>
 <body>
-
-	<?php
-echo $_GET['link']; ?>
+<br />
 
 <div id="packageInformation">
 
