@@ -37,7 +37,7 @@
 			}
 		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
-		,"#packageShortDesc" :
+		,"#packageShortDesc" : 
 			{"type":"text","source":"package>shortDescription"}
 		,"#compatibilityCheck" :
 			{"type":"custom"
@@ -72,7 +72,7 @@
 					// create screenshots link
 					$("#descriptionList").append(
 						$("<a class='link-item list-group-item'>")
-							.attr("href","screenshots.html" +bundleid)
+							.attr("href","screenshots.html?p="+bundleid)
 							.text("Screenshots")
 					);
 				}
