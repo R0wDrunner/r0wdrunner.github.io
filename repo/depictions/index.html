@@ -152,6 +152,52 @@
 
     }); // ready
   </script>
+  <script type="text/javascript">
+  
+	bundleid = $.QueryString['p'];	
+
+    var contentBlocks = 	{
+        "#screenshotsList"	: 
+			{"type":"custom"  
+				,"source" :"package>screenshots>screenshot"
+				,"render" : function(element,source){
+				console.log($(source).size());
+					if ($(source).size()==0) {
+						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+						return;
+					}
+					$.each(source, function(index,data) {
+						var th = $("<div class='thumbnail'>");
+						th.append($("<p>")
+							.text($(data).find('description').text())
+						)
+						th.append($("<img>")
+							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+						)
+						$(element).append(th);
+					});
+					
+				}
+			}
+	}
+    $( document ).ready(function() {
+        $.ajax({
+            type    : "GET",
+            dataType: "xml",
+            url     : (bundleid+"/info.xml"),
+            success : function(xml){
+				document.title = $(xml).find("package>name").text();
+            	data_loader_engine(contentBlocks,xml)
+            },
+			cache   : false,
+            error: function() {
+                $("#packageError").show();
+				$("#packageInformation").hide();
+            }
+        }); //ajax
+		
+    }); // ready
+  </script>
 </head>
 <body>
 <br />
@@ -182,6 +228,13 @@
 			<li id="changelogLink" />
 		</ul>
 	</div>
+	<div id="packageInformation">
+	<div class="container">
+		<h5>SCREENSHOTS</h5>
+		<ul id="screenshotsList" class="list-group">
+		</ul>
+	</div>
+</div>
 	<div class="container" id="dependenciesContainer">
 		<h5>DEPENDENCIES</h5>
 		<ul id="dependencyList" class="list-group">
