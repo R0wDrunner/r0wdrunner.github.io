@@ -28,12 +28,14 @@
 				,"render" : function(element,source){
 				console.log($(source).size());
 					if ($(source).size()==0) {
-						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+						$(element).append( $("") ); 
 						return;
 					}
 					$.each(source, function(index,data) {
-						
-						
+						var th = $("<div class='thumbnail'>");
+						th.append($("")
+							.text($(data).find('').text())
+						)
 						th.append($("<img>")
 							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
 						)
