@@ -38,3 +38,8 @@ body {
   font-weight: 300;
   font-size: 13px;
 }
+
+.jumbotron {
+
+    background: linear-gradient(141deg, #d6611d 0%, #ef9f37 51%, #EC9B3B 75%);
+}
