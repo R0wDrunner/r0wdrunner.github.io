@@ -1,8 +1,8 @@
-Origin: XIVA
-Label: XIVA
+Origin: R0wDrunner
+Label: R0wDrunner
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: XIVA
+Description: R0wDrunner

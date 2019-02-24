@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: XIVA
 Installed-Size: 196
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
+Filename: ./debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
 Size: 30602
 MD5sum: c46cb7f964ee8f108ee7a8bc410e9d1c
 SHA1: 4b2c602ab440593b8b111c45321f2db7b98914e7
