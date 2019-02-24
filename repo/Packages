@@ -1,17 +1,17 @@
-Package: com.xiva.minimalxi
-Version: 1.1.0-2
+Package: com.r0wdrunner.minimalxi2
+Version: 1.1.0-2-1+debug
 Architecture: iphoneos-arm
-Maintainer: XIVA
-Installed-Size: 196
+Maintainer: R0wDrunner
+Installed-Size: 184
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.xiva.minimalxi_1.1.0-2_iphoneos-arm.deb
-Size: 30602
-MD5sum: c46cb7f964ee8f108ee7a8bc410e9d1c
-SHA1: 4b2c602ab440593b8b111c45321f2db7b98914e7
-SHA256: 31d900028f567eac42b4ca517393fb4fd37d85d51d6b9c4931cfbdaf4215dfb8
+Filename: debs/com.r0wdrunner.minimalxi2_1.1.0-2-1+debug_iphoneos-arm.deb
+Size: 21558
+MD5sum: 9681426b8e90d6bbf701a6ba8173b7c1
+SHA1: 8fce2823bb32f02bd8727568bb5828e0d1d6a7a5
+SHA256: 6c7ad8e63ba3a354b4bd72dc6b35d84c68cd3f7657497ff1b55c9f58d57e27c9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: XIVA
-Depiction: https://xivadev.github.io/repo/depictions/?p=com.xiva.minimalxi
-Name: MinimalXI
+Author: R0wDrunner
+Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.minimalxi2
+Name: MinimalXI 2
 
