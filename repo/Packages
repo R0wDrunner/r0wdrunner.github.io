@@ -15,3 +15,20 @@ Author: R0wDrunner
 Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
 
+Package: com.r0wdrunner.tabsa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner
+Installed-Size: 166
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.r0wdrunner.tabsa_1.0_iphoneos-arm.deb
+Size: 15112
+MD5sum: 17e0f39372cf29cdee5a6bf649332c6f
+SHA1: 355d83c3ed946e9f89513bb2cb467b3b531d14d4
+SHA256: 8bea8f856e5aeddcbcfbbe9e2ec593cac057f95a07afcfdc49fc02779a7c3c2a
+Section: Tweaks
+Description: Tabs in Safari
+Author: R0wDrunner
+Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.tabsa
+Name: Tabsa
+
