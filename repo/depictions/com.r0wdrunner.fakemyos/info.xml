@@ -1,7 +1,7 @@
 <package>
-	<id>com.r0wdrunner.tabsa</id>
-	<name>Tabsa</name>
-	<version>1.1</version>
+	<id>com.r0wdrunner.fakemyos</id>
+	<name>FakeMyOS</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Tabs for Safari</shortDescription>
+	<shortDescription>Change your iOS in Settings</shortDescription>
 	<descriptionlist>
 		<description>
-		<![CDATA[Tabs for Safari!<br/>
+		<![CDATA[Fake your iOS Version inside the Settings App. No harm done to your Device. No Files are edited.<br/>
 		]]>
 		</description>
 	</descriptionlist>
