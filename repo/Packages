@@ -1,3 +1,20 @@
+Package: com.r0wdrunner.fakemyos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner
+Installed-Size: 246
+Depends: mobilesubstrate
+Filename: debs/com.r0wdrunner.fakemyos_1.0_iphoneos-arm.deb
+Size: 5894
+MD5sum: 80866b94ebf22e48925b52f8bd8e2ce3
+SHA1: cb035e95101245fbe64e5c156a2e9bbd8476ae65
+SHA256: 94f5881b3ad1dc9b7c021ea06ffd3cc805dd600d303992a15748ad117db9ba36
+Section: Tweaks
+Description: Fake your iOS Version inside the Settings App. No harm done to your Device. No Files are edited.
+Author: R0wDrunner
+Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.fakemyos
+Name: FakeMyOS
+
 Package: com.r0wdrunner.minimalxi2
 Version: 1.1
 Architecture: iphoneos-arm
