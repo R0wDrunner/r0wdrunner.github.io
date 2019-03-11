@@ -5,10 +5,10 @@ Maintainer: R0wDrunner <r0wdrunner@my.com>
 Installed-Size: 117
 Depends: mobilesubstrate
 Filename: debs/com.r0wdrunner.cleantabs_1.0_iphoneos-arm.deb
-Size: 3486
-MD5sum: 9458fed684b96bc451c6111d8e18d8b5
-SHA1: 9cbed2fcfdb40801867c9ac75cde432ad8fa14ef
-SHA256: 1e4343fc1f79af67c1561eed0ccdbe0b2c9e405b1f66a5318c2ca99d41aff7d6
+Size: 3488
+MD5sum: 53e63c7190dfb5b0d352b28f1ea68047
+SHA1: f4b32b45599a64c8a7195edf3de98fb36e97b076
+SHA256: d66c79f1c492a66d5b33ac3619a14fcda7e5458325bf5985b147a494adbfd4b0
 Section: Tweaks
 Description: Hide Labels of the Tab-Buttons
 Author: R0wDrunner <r0wdrunner@my.com>
