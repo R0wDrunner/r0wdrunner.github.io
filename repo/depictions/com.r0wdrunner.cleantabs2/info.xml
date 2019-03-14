@@ -1,6 +1,6 @@
 <package>
 	<id>com.r0wdrunner.cleantabs</id>
-	<name>Tabsa</name>
+	<name>CleanTabs</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -10,21 +10,21 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Tabs for Safari</shortDescription>
+	<shortDescription>Cleaner Tab Bars</shortDescription>
 	<descriptionlist>
 		<description>
-		<![CDATA[Tabs for Safari!<br/>
+		<![CDATA[Make the Tab Bars look cleaner!<br/>
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>The Tabs</description>
+			<description>Example</description>
 			<image>screen1.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Bugfixes & Buttered it to make it smoother</change>
 	</changelog>
 	<links>
 		<link>
