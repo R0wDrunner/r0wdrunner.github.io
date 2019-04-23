@@ -36,13 +36,13 @@ Package: com.r0wdrunner.minimalxi2
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: R0wDrunner
-Installed-Size: 172
+Installed-Size: 173
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.r0wdrunner.minimalxi2_1.1_iphoneos-arm.deb
-Size: 19160
-MD5sum: fda6870fb98700cc2aaed3ff1a2533f4
-SHA1: 6ea309234d0e72fa174e782000fd47519ca8eca8
-SHA256: 4699f7c1e67e237e7c9c3a88d18b33c260071175e4a0ab1bf9aebd6b8bc5903b
+Size: 21068
+MD5sum: 6c64a18bf9c2f2b3ff63a97033d4e821
+SHA1: 0716844034e112edf17c0d0b32324a520aad550c
+SHA256: 5fcd4179785cb3a54df7e8e8cead1993132119b352ffc9545584134a281712e0
 Section: Tweaks
 Description: Minimal System UI Editor
 Author: R0wDrunner
