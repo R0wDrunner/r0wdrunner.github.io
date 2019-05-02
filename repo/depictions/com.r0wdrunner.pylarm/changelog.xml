@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>1.1</version>
+		<change>Fixed Bug with Lock/Volume Buttons destroying the purpose of the Tweak</change>
+		<change>Added Statistics</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

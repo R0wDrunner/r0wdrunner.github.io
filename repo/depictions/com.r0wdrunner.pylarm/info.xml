@@ -1,0 +1,42 @@
+<package>
+	<id>com.r0wdrunner.pylarm</id>
+	<name>Pylarm</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate , ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>Math Problems when disabling an alarm</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[Math Problem solving when disabling an alarm<br/>
+		Wake up to a tasty Math-exercise with Pylarm.]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screen1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>screen2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>1.1</change>
+		<change>Huge Bug fixes</change>
+		<change>Added Stats</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Donate</name>
+			<url>https://www.paypal.me/XIVA</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</links>
+</package>
