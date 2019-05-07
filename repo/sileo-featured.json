@@ -9,12 +9,5 @@
         "package": "com.r0wdrunner.pylarm",
         "hideShadow": false
       }
-    ],
-    "name": "Chariz",
-    "icon": "https://my.chariz.io/Icon.png",
-    "description": "Chariz Pay",
-    "authentication_banner": {
-      "message": "Sample sign in prompt text",
-      "button": "Sign in"
-   }
+    ]
   }
