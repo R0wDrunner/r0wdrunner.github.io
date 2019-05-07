@@ -1,0 +1,32 @@
+{
+  "title": "Support",
+  "tintColor": "#04A94E",
+  "views": [
+    {
+      "markdown": "If you are experiencing problems with <em>Pylarm</em>, you can contact the developer for support.",
+      "useSpacing": true,
+      "useRawFormat": true,
+      "class": "DepictionMarkdownView"
+    },
+    {
+      "class": "DepictionSeparatorView"
+    },
+    {
+      "title": "Contact",
+      "class": "DepictionHeaderView"
+    },
+    {
+      "title": "Send an Email",
+      "action": "mailto:r0wdrunner@gmail.com",
+      "openExternal": true,
+      "class": "DepictionTableButtonView"
+    },
+    {
+      "title": "Contact on Twitter",
+      "action": "https://mobile.twitter.com/DaveAppSupport",
+      "openExternal": true,
+      "class": "DepictionTableButtonView"
+    }
+  ],
+  "class": "DepictionStackView"
+}

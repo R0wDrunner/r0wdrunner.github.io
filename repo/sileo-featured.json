@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+      {
+        "url": "https://raw.githubusercontent.com/R0wDrunner/r0wdrunner.github.io/master/repo/depictions/com.r0wdrunner.pylarm/screenshots/screen2.png?token=AIAMYFSD5Z7TDFDVFZ5MJVC43KT4S",
+        "title": "Pylarm",
+        "package": "com.r0wdrunner.pylarm",
+        "hideShadow": false
+      }
+    ]
+  }

@@ -1,0 +1,82 @@
+{
+    "headerImage": "https://raw.githubusercontent.com/R0wDrunner/r0wdrunner.github.io/master/repo/depictions/com.r0wdrunner.pylarm/screenshots/screen2.png?token=AIAMYFSD5Z7TDFDVFZ5MJVC43KT4S",
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Pylarm",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Math Problems when disabling an alarm.",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/R0wDrunner/r0wdrunner.github.io/master/repo/depictions/com.r0wdrunner.pylarm/screenshots/screen1.png?token=AIAMYFWOAJEHV3BZOLJZSCC43KT3E",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/R0wDrunner/r0wdrunner.github.io/master/repo/depictions/com.r0wdrunner.pylarm/screenshots/screen2.png?token=AIAMYFSD5Z7TDFDVFZ5MJVC43KT4S",
+                            "accessibilityText": "Screenshot1"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "You're not a morning person? You always sleep over your alarm? \r\nNo Problem with Pylarm! Get Math exercises when trying to disable an Alarm.\r\n\r\nConfigure Tweak in Preferences."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.1",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "05-07-2019",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "R0wDrunner",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
+}
