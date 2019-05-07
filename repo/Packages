@@ -59,16 +59,16 @@ Maintainer: R0wDrunner
 Installed-Size: 231
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.r0wdrunner.pylarm_1.1_iphoneos-arm.deb
-Size: 70870
-MD5sum: 1a9c58a2017eeff04e11d0ff14b96875
-SHA1: f9b11cee7ef96b57393d334a6f38a1850fcae456
-SHA256: c8807417aefa1ccd0ea95bb92366964136949ef459845986aa8fb0ba33edeb69
+Size: 70736
+MD5sum: 1616eb10a9fd68d052da953ba0ce4b83
+SHA1: 710270263e68f62a06d37f892532b54333e81406
+SHA256: df7673f8ea7e0d96f82f59182d9538d5995a3b60793d747552792b4a8bdfe20f
 Section: Tweaks
 Description: Math-Problem solving when deactivating an alarm.
 Author: R0wDrunner
 Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.pylarm
 Name: Pylarm
-Sileodepiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.pylarm
+Sileodepiction: https://r0wdrunner.github.io/repo/sileoDepictions/pylarm
 
 Package: com.r0wdrunner.tabsa
 Version: 1.0
