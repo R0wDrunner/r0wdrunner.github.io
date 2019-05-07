@@ -77,6 +77,6 @@
             "class": "DepictionStackView"
         }
     ],
-    "tintColor": "#0657bb",
+    "tintColor": "#ff9900",
     "class": "DepictionTabView"
 }
