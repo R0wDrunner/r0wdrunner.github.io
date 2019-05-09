@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Reboot, Shutdown, Respring, and more easily",
+          "title": "Math Problems when disabling an alarm.",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -112,7 +112,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Killed some brutal bugs\nPretty much Rewrote it as a whole",
+          "markdown": "Killed some brutal bugs\r\n\r\nPretty much Rewrote it as a whole",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
