@@ -34,9 +34,9 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Donate</name>
-			<url>https://www.paypal.me/XIVA</url>
-			<iconclass>fa fa-paypal</iconclass>
+			<name>My Discord</name>
+			<url>https://discord.gg/U6hdDUS</url>
+			<iconclass>fa fa-link</iconclass>
 		</link>
 	</links>
 </package>
