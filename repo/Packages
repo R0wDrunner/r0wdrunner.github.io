@@ -71,16 +71,16 @@ Name: Pylarm
 Sileodepiction: https://r0wdrunner.github.io/repo/sileoDepictions/pylarm
 
 Package: com.r0wdrunner.rrpass
-Version: 1.0
+Version: 1.0-4+debug
 Architecture: iphoneos-arm
 Maintainer: R0wDrunner
-Installed-Size: 8548
+Installed-Size: 8560
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.r0wdrunner.rrpass_1.0_iphoneos-arm.deb
-Size: 8579446
-MD5sum: eaeeae3349b828750a5a10d8521e65f3
-SHA1: 1ab09cf8178fa2aaaa77ed588538a67d732c3eb3
-SHA256: 8a49194ae203ad3654c86c18789462688144b12030c800978015b582babfc254
+Filename: debs/com.r0wdrunner.rrpass_1.0-4+debug_iphoneos-arm.deb
+Size: 8625566
+MD5sum: 5830c059310ed5b4884906fbc4916c78
+SHA1: 6e231d411d373a68c8c3e1e04f2e99ee4d33c63a
+SHA256: b314beaee67ec1c0148f20a6bf5da29fe5735083cc44cc624b3931190fbbca0b
 Section: Tweaks
 Description: Rick Roll anyone that tries to enter your phone
 Author: R0wDrunner
