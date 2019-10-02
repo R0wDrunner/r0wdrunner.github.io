@@ -3,7 +3,7 @@
   "tintColor": "#04A94E",
   "views": [
     {
-      "markdown": "If you are experiencing problems with <em>Pylarm</em>, you can contact the developer for support.",
+      "markdown": "If you are experiencing problems with <em>RRPass</em>, you can contact the developer for support.",
       "useSpacing": true,
       "useRawFormat": true,
       "class": "DepictionMarkdownView"

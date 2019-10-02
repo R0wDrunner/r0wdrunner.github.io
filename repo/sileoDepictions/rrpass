@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/AXmVgpw.png",
+  "headerImage": "https://i.imgur.com/Ha03Alo.jpg",
   "tintColor": "#ff9900",
   "tabs": [
     {
@@ -17,12 +17,8 @@
             "itemSize": "{160, 284.44444444444446}",
             "screenshots": [
                 {
-                    "url": "https://i.imgur.com/7Ka5pUd.png",
+                    "url": "https://i.imgur.com/Ha03Alo.jpg",
                     "accessibilityText": "Screenshot0"
-                },
-                {
-                    "url": "https://i.imgur.com/Jcym3rZ.png",
-                    "accessibilityText": "Screenshot1"
                 }
             ],
           "ipad": {
@@ -30,12 +26,8 @@
             "itemSize": "{320, 568.8888888888889}",
             "screenshots": [
                 {
-                    "url": "https://i.imgur.com/7Ka5pUd.png",
+                    "url": "https://i.imgur.com/Ha03Alo.jpg",
                     "accessibilityText": "Screenshot0"
-                },
-                {
-                    "url": "https://i.imgur.com/Jcym3rZ.png",
-                    "accessibilityText": "Screenshot1"
                 }
             ],
             "class": "DepictionScreenshotView"

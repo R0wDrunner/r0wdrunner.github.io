@@ -1,0 +1,36 @@
+<package>
+	<id>com.r0wdrunner.rrpass</id>
+	<name>RRPass</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Rick Roll anyone that tries to enter your phone</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[Rick Roll anyone that tries to enter your phone<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Example</description>
+			<image>screen1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Release &amp; Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>The Gang</name>
+			<url>https://idevicehacked.com/repo/</url>
+			<iconclass>fa fa-link</iconclass>
+		</link>
+	</links>
+</package>
