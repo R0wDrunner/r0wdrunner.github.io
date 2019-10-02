@@ -30,7 +30,7 @@
 		<link>
 			<name>My Discord</name>
 			<url>https://discord.gg/U6hdDUS</url>
-			<iconclass>fa fa-discord</iconclass>
+			<i class="fab fa-discord"></i>
 		</link>
 	</links>
 </package>
