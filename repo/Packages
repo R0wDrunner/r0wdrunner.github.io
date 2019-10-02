@@ -77,10 +77,10 @@ Maintainer: R0wDrunner
 Installed-Size: 8548
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.r0wdrunner.rrpass_1.0_iphoneos-arm.deb
-Size: 8578652
-MD5sum: 03fbf7617917a7ccf12bfe6a7f9c807c
-SHA1: 32c28c506a283a319fcf7daa9c1af9677531c5b6
-SHA256: c18382d2784d41c926a7e15bc28943718e8b5ce7e66f2aa006193d68d76f30cf
+Size: 8579446
+MD5sum: eaeeae3349b828750a5a10d8521e65f3
+SHA1: 1ab09cf8178fa2aaaa77ed588538a67d732c3eb3
+SHA256: 8a49194ae203ad3654c86c18789462688144b12030c800978015b582babfc254
 Section: Tweaks
 Description: Rick Roll anyone that tries to enter your phone
 Author: R0wDrunner
