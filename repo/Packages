@@ -53,21 +53,21 @@ Name: MinimalXI 2
 Sileodepiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.minimalxi2
 
 Package: com.r0wdrunner.pylarm
-Version: 1.1
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: R0wDrunner
-Installed-Size: 231
+Installed-Size: 1084
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.r0wdrunner.pylarm_1.1_iphoneos-arm.deb
-Size: 70736
-MD5sum: 1616eb10a9fd68d052da953ba0ce4b83
-SHA1: 710270263e68f62a06d37f892532b54333e81406
-SHA256: df7673f8ea7e0d96f82f59182d9538d5995a3b60793d747552792b4a8bdfe20f
+Filename: debs/com.r0wdrunner.pylarm_2.0_iphoneos-arm.deb
+Size: 848426
+MD5sum: 0ba9a4fcfdf10ece7aaa4d618d0bce60
+SHA1: 855cd69c3ba0832af545295aacc0eba7ae6243df
+SHA256: 8d3a782e5dd7a654bdc7c07099f63fb37f2c3447b3fd628904337379f9abca67
 Section: Tweaks
 Description: Math-Problem solving when deactivating an alarm.
 Author: R0wDrunner
 Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.pylarm
-Name: Pylarm
+Name: Pylarm II
 Sileodepiction: https://r0wdrunner.github.io/repo/sileoDepictions/pylarm
 
 Package: com.r0wdrunner.rrpass
