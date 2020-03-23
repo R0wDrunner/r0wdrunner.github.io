@@ -1,1 +1,1 @@
-bash update.sh
+bash rm Packages Packages.bz2

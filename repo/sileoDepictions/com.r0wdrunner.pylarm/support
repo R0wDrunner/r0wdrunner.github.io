@@ -17,7 +17,7 @@
     },
     {
       "title": "Send an Email",
-      "action": "mailto:r0wdrunner@gmail.com",
+      "action": "mailto:r0wdrunner@my.com",
       "openExternal": true,
       "class": "DepictionTableButtonView"
     },

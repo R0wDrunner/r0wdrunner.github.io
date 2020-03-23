@@ -1,9 +1,9 @@
 {
   "title": "Support",
-  "tintColor": "#FF5C5C",
+  "tintColor": "#04A94E",
   "views": [
     {
-      "markdown": "If you are experiencing problems with <em>RRPass</em>, you can contact the developer for support.",
+      "markdown": "If you are experiencing problems with <em>Pylarm</em>, you can contact the developer for support.",
       "useSpacing": true,
       "useRawFormat": true,
       "class": "DepictionMarkdownView"
@@ -17,7 +17,7 @@
     },
     {
       "title": "Send an Email",
-      "action": "mailto:r0wdrunner@my.com",
+      "action": "mailto:r0wdrunner@gmail.com",
       "openExternal": true,
       "class": "DepictionTableButtonView"
     },
