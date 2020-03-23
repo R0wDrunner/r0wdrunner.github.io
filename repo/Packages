@@ -5,16 +5,14 @@ Maintainer: R0wDrunner & MegaDev
 Installed-Size: 404
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.megadev.r0wdrunner.situm_1.0_iphoneos-arm.deb
-Size: 148512
-MD5sum: cd6dbc8b06c71ddc30ef537fe1885354
-SHA1: 3d3daa06506942e7891da3ca9d2f06c857607215
-SHA256: e532390e4fe3a30c91096425ebbb7d376d588422ba3e129e541ee024a4f19c42
+Size: 148502
+MD5sum: 1e65585d82ed53142b684e4a32a734e0
+SHA1: 6fde8bd1580237937e0df0a69f14a844507a0c4a
+SHA256: 2796ba048769b5fad14b73eb06faa711e5f93f73c59abe99cef39828ccf5bc33
 Section: Tweaks
 Description: Search Text Selection Anywhere!
 Author: R0wDrunner & MegaDev
-Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.megadev.r0wdrunner.situm
 Name: SITUM
-Sileodepiction: https://r0wdrunner.github.io/repo/sileoDepictions/situm
 
 Package: com.r0wdrunner.cleantabs
 Version: 1.1
