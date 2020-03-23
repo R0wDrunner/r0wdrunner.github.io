@@ -1,14 +1,14 @@
 Package: com.megadev.r0wdrunner.situm
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: R0wDrunner & MegaDev
 Installed-Size: 404
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.megadev.r0wdrunner.situm_1.0_iphoneos-arm.deb
-Size: 148502
-MD5sum: 1e65585d82ed53142b684e4a32a734e0
-SHA1: 6fde8bd1580237937e0df0a69f14a844507a0c4a
-SHA256: 2796ba048769b5fad14b73eb06faa711e5f93f73c59abe99cef39828ccf5bc33
+Filename: debs/com.megadev.r0wdrunner.situm_1.0.1_iphoneos-arm.deb
+Size: 148538
+MD5sum: b4b1b6a6fb21b13add2733dd1de0746d
+SHA1: 9cda5254fbd96171329858adfab8057606da56dc
+SHA256: 4191cd6e8eb4a923f1dcbd72b1b8a631da5de722bb38640f3f7f13d3aab4511a
 Section: Tweaks
 Description: Search Text Selection Anywhere!
 Author: R0wDrunner & MegaDev
