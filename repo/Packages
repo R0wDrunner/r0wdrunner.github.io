@@ -1,4 +1,20 @@
 Package: com.megadev.r0wdrunner.situm
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner & MegaDev
+Installed-Size: 404
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.megadev.r0wdrunner.situm_1.0.1_iphoneos-arm.deb
+Size: 148538
+MD5sum: b4b1b6a6fb21b13add2733dd1de0746d
+SHA1: 9cda5254fbd96171329858adfab8057606da56dc
+SHA256: 4191cd6e8eb4a923f1dcbd72b1b8a631da5de722bb38640f3f7f13d3aab4511a
+Section: Tweaks
+Description: Search Text Selection Anywhere!
+Author: R0wDrunner & MegaDev
+Name: SITUM
+
+Package: com.megadev.r0wdrunner.situm
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: R0wDrunner & MegaDev
@@ -13,6 +29,24 @@ Section: Tweaks
 Description: Search Text Selection Anywhere!
 Author: R0wDrunner & MegaDev
 Name: SITUM
+
+Package: com.megadev.r0wdrunner.situm
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner & MegaDev
+Installed-Size: 364
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.megadev.r0wdrunner.situm_1.0.3_iphoneos-arm.deb
+Size: 179826
+MD5sum: 6b3bc19669a4248e309d43a603e63bc3
+SHA1: ffca214387b51953ba47b2a95e6ccd70e9cb6946
+SHA256: f0fc597e958f2b0c50e2d9fe9bf9fdcd051edd0384f24f2944446c6364cf1e08
+Section: Tweaks
+Description: Search Text Selection Anywhere!
+Author: R0wDrunner & MegaDev
+Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.megadev.r0wdrunner.situm
+Name: SITUM
+Sileodepiction: https://r0wdrunner.github.io/repo/depictions/?p=com.megadev.r0wdrunner.situm
 
 Package: com.r0wdrunner.cleantabs
 Version: 1.1
@@ -67,6 +101,24 @@ Author: R0wDrunner
 Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
 Sileodepiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.minimalxi2
+
+Package: com.r0wdrunner.pylarm
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner
+Installed-Size: 231
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.r0wdrunner.pylarm_1.1_iphoneos-arm.deb
+Size: 70736
+MD5sum: 1616eb10a9fd68d052da953ba0ce4b83
+SHA1: 710270263e68f62a06d37f892532b54333e81406
+SHA256: df7673f8ea7e0d96f82f59182d9538d5995a3b60793d747552792b4a8bdfe20f
+Section: Tweaks
+Description: Math-Problem solving when deactivating an alarm.
+Author: R0wDrunner
+Depiction: https://r0wdrunner.github.io/repo/depictions/?p=com.r0wdrunner.pylarm
+Name: Pylarm
+Sileodepiction: https://r0wdrunner.github.io/repo/sileoDepictions/pylarm
 
 Package: com.r0wdrunner.pylarm
 Version: 2.0
